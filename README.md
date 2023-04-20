@@ -27,6 +27,6 @@
 ----------------------------------------
 
 Cấu trúc scaffold:
-	+ appBar
+	+ appBar:
 	+ body:
 	+ home:
