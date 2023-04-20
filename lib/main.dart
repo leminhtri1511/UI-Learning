@@ -86,7 +86,6 @@ class LoginPage extends StatelessWidget {
                 SizedBox(height: 30),
           
                 Center(
-                 
                     child: Column(
                       children: [
                         TextFormField(
