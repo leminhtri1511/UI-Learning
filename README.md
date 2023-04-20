@@ -32,8 +32,4 @@
 
 		+ Desktop apps(Windows, macOS, Linux)
 
-	Cấu trúc scaffold:
-		appBar:
-		body:
-		home
 -----------------------------------
